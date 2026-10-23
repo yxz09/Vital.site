@@ -1,6 +1,6 @@
 ## Overview
 
-Official documentation and resource hub for Vital.sandbox.
+Official documentation and resource hub for Vital.sandbox and xyz
 
 Vital.site covers the full API reference, scripting guides, the community vault, the live server masterlist, scripting benchmarks, and the workspace portal — everything needed to build with and deploy for the sandbox from day one.
 
